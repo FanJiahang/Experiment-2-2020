@@ -1,0 +1,16 @@
+package ABc;
+
+class PC{
+CPU cpu;
+HardDisk HD;
+void setCPU(CPU c){
+cpu=c;
+}
+void setHardDisk(HardDisk h){
+HD=h;
+}
+void show(){
+System.out.println("CPUÀŸ∂»:"+cpu.getSpeed());
+System.out.print("”≤≈Ã»›¡ø:"+HD.getAmount());
+}
+}
