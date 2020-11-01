@@ -21,7 +21,7 @@ PC 类 要求 setCPU(CPU c)将参数 c 的值赋值给 cpu，要求 setHardDisk(
   pc分别调用出setCPU（CPU c）、setHardDisk（HardDisk）方法，实参分别为cpu、disk  
   pc再次调用show（）方法  
 # 四、实验结果  
-![结果截图]()
+![结果截图](https://github.com/FanJiahang/Experiment-2-2020/blob/main/java_experiment_2.png)
 # 五、核心代码  
   	int speed;
 	int getSpeed(){
